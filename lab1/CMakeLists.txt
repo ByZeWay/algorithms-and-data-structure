@@ -3,4 +3,4 @@ project(CPP_PROJECTS)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(CPP_PROJECTS main.cpp SingleList.cpp SingleList.h)
+add_executable(CPP_PROJECTS main.cpp SingleList.cpp SingleList.h DoubleList.h DoubleList.cpp)
